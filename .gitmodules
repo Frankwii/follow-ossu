@@ -1,0 +1,4 @@
+[submodule "introduction-to-computer-science"]
+	path = introduction-to-computer-science
+	url = ./introduction-to-computer-science
+	branch = intro-cs
